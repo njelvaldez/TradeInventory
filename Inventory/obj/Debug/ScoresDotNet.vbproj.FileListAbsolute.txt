@@ -1,0 +1,512 @@
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ResolveAssemblyReference.cache
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\Interop.Scripting.dll
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.vbproj.ResolveComReference.cache
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Report_ControlTotals.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Report_MdiSalesPerMedrep.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Report_MdiSalesPerMedrepFLT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Report_MdiSalesPerMedrepMH.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Report_MdiSalesPerMedrepMTD.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Report_MedrepCommission.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Report_MedrepCommissionWithRecovery.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Report_MedrepCommissionWithRecovery2012.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Report_YTDrecovery.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Report_YTDrecoveryDSMpush.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Report_YTDrecoveryPush.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Rpt_ActiveMB.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.BudgetOsCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.CallRateBudgetCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.CallRateCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.CompanyCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.cOrgChrt.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.CustomerCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.CustomerTypeCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.DistrictCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.DivisionCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.EditIntegratedSales.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.EditIntegratedSalesMercury.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frm4thKeyProducts.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frm5thKeyProducts.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmDistrict.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmDistrictEntry.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmDistrictSupervisorEntry.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmDistrictSupervisorMaint.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmDistrictSupervisorUpdate.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmDistrictUpdate.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmExCustomers.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmExCustomersZue.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmKeyProducts.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmPushProducts.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmSubKeyProduct.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmTerKeyProduct.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.GroupCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Idiv_Entry.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Idsg_Entry.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Insm_Entry.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Ipc_Entry.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Ipm_Entry.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Iprin_Entry.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.ItemCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Itm_Entry.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.MedRepCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.MedRepOldCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.MercuryBranchCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.MercuryItemCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.ModTradDSM.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.NsmCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.PM_CT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.PrincipalCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.ProductFormCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.ProductLineCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.ProductLinesCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.ProvinceCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.QpiTerritoryBudgetCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.SupDiv.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.SupervisorCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.SupMr.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.SupNSM.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.TeamDivisionCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.TerritoryAreaBrickEntry.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.TerritoryAreaBrickUpdate.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.TerritoryAreaEntry.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmTerritoryAreaMaint.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.TerritoryAreaPMREntry.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.TerritoryAreaPMRUpdate.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.TerritoryAreaUpdate.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.TerritoryCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmUserMaint.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmItem.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmItemBrowse.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmSupMr.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmQpiTerritory.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmQpiTerritoryAssignment.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmQpiTerritoryAssignment_Modify.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Report_QpiSalesPerTerritory.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.DateRangeBox.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmCodDesc.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmDesc.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmDialogBox.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.LogIn.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Main.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.NewLogIn.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.TerriPopup.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmBudget.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmBudgetDirect.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmBudgetDirectPerDistributor.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmBudgetDirectPerDistributorUpdate.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmBudgetItem.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmBudgetPMR.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmBudgetPmrModernTrade.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmDistributeReports.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmDivisionSub.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmIMSbrick.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmItemBudget.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmMedrep.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmMedrepBudgetList.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.MedRepTerAssign.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.MHMedRepTerAssign.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmMyItemBrowse.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.QpiAreaAssign.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.QPIareacode.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmReportViewer.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmProcessCallRate.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmProcessCallRateProduct.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmProcessInHouseData.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmProcessInMarketData.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmProcessMdiData.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmProcessMdiData_Daily.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmProcessMercuryData.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmProcessMercuryDataSept.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmProcessProscarData.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmProcessSubDistributorData.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.MyTabPageClass.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.MyTabPageControl.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.MyTabPageControl1.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.About.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.CustomerShipToMaster.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.CustomerShipToMaster_Tagging.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.DuplicateTransactions.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.MdiWeeklySalesInvoiceExport.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.MergedStockTransferExport.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.NewBusinessRuleMaintenance.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.NewCustomer.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.NewItem.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.SalesAdjustments.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.vbproj.GenerateResource.Cache
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\bin\ScoresDotNet.exe.config
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\bin\ScoresDotNet.exe
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\bin\ScoresDotNet.pdb
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\bin\ScoresDotNet.xml
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.exe
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.xml
+E:\Jojit Franco\Scores\Visual Studio 2008\Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.pdb
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\bin\ScoresDotNet.exe.config
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\bin\ScoresDotNet.exe
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\bin\ScoresDotNet.pdb
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\bin\ScoresDotNet.xml
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ResolveAssemblyReference.cache
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\Interop.Scripting.dll
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.vbproj.ResolveComReference.cache
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Report_ControlTotals.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Report_MdiSalesPerMedrep.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Report_MdiSalesPerMedrepFLT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Report_MdiSalesPerMedrepMH.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Report_MdiSalesPerMedrepMTD.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Report_MedrepCommission.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Report_MedrepCommissionWithRecovery.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Report_MedrepCommissionWithRecovery2012.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Report_YTDrecovery.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Report_YTDrecoveryDSMpush.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Report_YTDrecoveryPush.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Rpt_ActiveMB.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.BudgetOsCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.CallRateBudgetCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.CallRateCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.CompanyCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.cOrgChrt.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.CustomerCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.CustomerTypeCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.DistrictCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.DivisionCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.EditIntegratedSales.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.EditIntegratedSalesMercury.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frm4thKeyProducts.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frm5thKeyProducts.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmDistrict.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmDistrictEntry.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmDistrictSupervisorEntry.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmDistrictSupervisorMaint.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmDistrictSupervisorUpdate.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmDistrictUpdate.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmExCustomers.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmExCustomersZue.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmKeyProducts.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmPushProducts.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmSubKeyProduct.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmTerKeyProduct.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmUtility.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.GroupCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Idiv_Entry.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Idsg_Entry.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Insm_Entry.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Ipc_Entry.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Ipm_Entry.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Iprin_Entry.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.ItemCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Itm_Entry.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.MedRepCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.MedRepOldCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.MercuryBranchCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.MercuryItemCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.ModTradDSM.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.NsmCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.PM_CT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.PrincipalCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.ProductFormCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.ProductLineCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.ProductLinesCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.ProvinceCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.QpiTerritoryBudgetCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.SupDiv.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.SupervisorCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.SupMr.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.SupNSM.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.TeamDivisionCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.TerritoryAreaBrickEntry.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.TerritoryAreaBrickUpdate.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.TerritoryAreaEntry.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmTerritoryAreaMaint.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.TerritoryAreaPMREntry.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.TerritoryAreaPMRUpdate.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.TerritoryAreaUpdate.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.TerritoryCT.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmUserMaint.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmItem.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmItemBrowse.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmSupMr.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmQpiTerritory.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmQpiTerritoryAssignment.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmQpiTerritoryAssignment_Modify.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Report_QpiSalesPerTerritory.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.DateRangeBox.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmCodDesc.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmDesc.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmDialogBox.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.LogIn.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.loginform.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Main.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.NewLogIn.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.TerriPopup.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmBudget.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmBudgetDirect.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmBudgetDirectPerDistributor.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmBudgetDirectPerDistributorUpdate.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmBudgetItem.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmBudgetPMR.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmBudgetPmrModernTrade.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmDistributeReports.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmDivisionSub.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmIMSbrick.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmItemBudget.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmMedrep.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmMedrepBudgetList.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.MedRepTerAssign.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.MHMedRepTerAssign.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmMyItemBrowse.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.QpiAreaAssign.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.QPIareacode.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmReportViewer.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmProcessCallRate.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmProcessCallRateProduct.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmProcessInHouseData.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmProcessInMarketData.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmProcessMdiData.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmProcessMdiData_Daily.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmProcessMercuryData.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmProcessMercuryDataSept.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmProcessProscarData.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmProcessSubDistributorData.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmProcessTradeReport.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmArea.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmDistrictAreaAreaPMR.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frm518SubDist.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmAccountCoverage.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmAverageSellingPrice.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmBarrXselSubDist.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmBRReports.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmBudgetForDirect.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmBudgetForSpecialist.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmCalendarizedItemSales.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmCMReportPivot.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmEditDataMapping.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmGBSubDist.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmGenerateInvoiceList.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmGenerateNMPCSalesUpdate.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmDailySalesUpdateUtil.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmGloboSubDist.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmIMSInhouseReport.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmIntegratedSales.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmSalesMarketingIncentives_vb.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmSalesTrendDirect.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmSouthStarSubDist.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmTransferSales.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.frmSalesTrendStockTransfer.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.Resources.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.MyTabPageClass.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.MyTabPageControl.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.MyTabPageControl1.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.About.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.CustomerShipToMaster.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.CustomerShipToMaster_Tagging.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.DuplicateTransactions.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.MdiWeeklySalesInvoiceExport.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.MergedStockTransferExport.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.NewBusinessRuleMaintenance.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.NewCustomer.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.NewItem.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.SalesAdjustments.resources
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.vbproj.GenerateResource.Cache
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.exe
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.xml
+E:\Jojit Franco\Scores\Visual Studio 2008\Merged Copy of MyDotNetProjectsTest\ScoresDotNet\obj\Debug\ScoresDotNet.pdb
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\bin\ScoresDotNet.exe.config
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\bin\ScoresDotNet.exe
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\bin\ScoresDotNet.pdb
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\bin\ScoresDotNet.xml
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\bin\CrystalDecisions.ReportSource.dll
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\bin\CrystalDecisions.Shared.dll
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\bin\CrystalDecisions.Web.dll
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\Interop.Scripting.dll
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.vbproj.ResolveComReference.cache
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.Report_ControlTotals.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.Report_MdiSalesPerMedrep.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.Report_MdiSalesPerMedrepFLT.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.Report_MdiSalesPerMedrepMH.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.Report_MdiSalesPerMedrepMTD.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.Report_MedrepCommission.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.Report_MedrepCommissionWithRecovery.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.Report_MedrepCommissionWithRecovery2012.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.Report_YTDrecovery.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.Report_YTDrecoveryDSMpush.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.Report_YTDrecoveryPush.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.Rpt_ActiveMB.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.BudgetOsCT.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.CallRateBudgetCT.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.CallRateCT.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.CompanyCT.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.cOrgChrt.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.CustomerCT.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.CustomerTypeCT.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.DistrictCT.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.DivisionCT.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.EditIntegratedSales.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.EditIntegratedSalesMercury.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frm4thKeyProducts.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frm5thKeyProducts.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmDistrict.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmDistrictEntry.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmDistrictSupervisorEntry.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmDistrictSupervisorMaint.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmDistrictSupervisorUpdate.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmDistrictUpdate.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmExCustomers.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmExCustomersZue.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmKeyProducts.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmPushProducts.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmSubKeyProduct.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmTerKeyProduct.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmUtility.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.GroupCT.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.Idiv_Entry.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.Idsg_Entry.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.Insm_Entry.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.Ipc_Entry.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.Ipm_Entry.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.Iprin_Entry.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.ItemCT.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.Itm_Entry.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.MedRepCT.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.MedRepOldCT.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.MercuryBranchCT.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.MercuryItemCT.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.ModTradDSM.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.NsmCT.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.PM_CT.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.PrincipalCT.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.ProductFormCT.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.ProductLineCT.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.ProductLinesCT.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.ProvinceCT.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.QpiTerritoryBudgetCT.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.SupDiv.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.SupervisorCT.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.SupMr.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.SupNSM.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.TeamDivisionCT.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.TerritoryAreaBrickEntry.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.TerritoryAreaBrickUpdate.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.TerritoryAreaEntry.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmTerritoryAreaMaint.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.TerritoryAreaPMREntry.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.TerritoryAreaPMRUpdate.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.TerritoryAreaUpdate.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.TerritoryCT.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmUserMaint.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmItem.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmItemBrowse.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmSupMr.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmQpiTerritory.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmQpiTerritoryAssignment.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmQpiTerritoryAssignment_Modify.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.Report_QpiSalesPerTerritory.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.DateRangeBox.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmCodDesc.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmDesc.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmDialogBox.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.LogIn.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.loginform.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.Main.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.NewLogIn.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.TerriPopup.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmBudget.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmBudgetDirect.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmBudgetDirectPerDistributor.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmBudgetDirectPerDistributorUpdate.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmBudgetItem.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmBudgetPMR.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmBudgetPmrModernTrade.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmDistributeReports.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmDivisionSub.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmIMSbrick.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmItemBudget.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmMedrep.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmMedrepBudgetList.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.MedRepTerAssign.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.MHMedRepTerAssign.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmMyItemBrowse.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.QpiAreaAssign.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.QPIareacode.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmReportViewer.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmProcessCallRate.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmProcessCallRateProduct.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmProcessInHouseData.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmProcessInMarketData.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmProcessMdiData.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmProcessMdiData_Daily.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmProcessMercuryData.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmProcessMercuryDataSept.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmProcessProscarData.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmProcessSubDistributorData.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmProcessTradeReport.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmLookUp.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmSalesControl.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmSplitSalesTransaction.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmTransferSalesToSP.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmArea.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmDistrictAreaAreaPMR.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmSegSegHead.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frm518SubDist.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmAccountCoverage.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmAverageSellingPrice.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmBarrXselSubDist.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmBRReports.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmBudgetForDirect.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmBudgetForSpecialist.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmBudgetDirectReport.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmBudgetDirectSummary.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmCalendarizedItemSales.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmCMReportPivot.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmEditDataMapping.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmGBSubDist.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmGenerateInvoiceList.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmGenerateNMPCSalesUpdate.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmDailySalesUpdateUtil.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmGloboSubDist.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmCustomerReachDirect.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmIMSInhouseReport.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmIntegratedSales.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmItemSalesReportDirect.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmSalesMarketingIncentives_vb.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmSalesTrendDirectMAT.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmSalesTrendDirectYTDver9.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmBudget2MonthsReport.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmBudgetMonthlyReport.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmCustomerReachStockTransfer.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmItemSalesReportStockTransfer.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmSalesPerformanceSPAward.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmSalesPerformanceSPAwardTrade.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmSalesPerformanceSPTM.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmSalesPerformanceSPTMMAT.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmSalesPerformanceSPTMTrade.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmSalesPerformanceSPTMTradeMonth.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmSalesPerformanceTMAward.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmSalesPerformanceTMAwardTrade.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmSalesTrendDirect.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmSouthStarSubDist.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmTransferSales.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmSalesTrendStockTransfer.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmSalesTrendStockTransferMAT.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.Resources.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.MyTabPageClass.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.MyTabPageControl.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.MyTabPageControl1.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.About.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.CustomerShipToMaster.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.CustomerShipToMaster_Tagging.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.DuplicateTransactions.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.MdiWeeklySalesInvoiceExport.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.MergedStockTransferExport.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.NewBusinessRuleMaintenance.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.NewCustomer.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.NewItem.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.SalesAdjustments.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.vbproj.GenerateResource.Cache
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.exe
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.xml
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Scores2014\ScoresDotNet\obj\Debug\ScoresDotNet.pdb
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\ScoresDotNet\bin\ScoresDotNet.exe.config
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\ScoresDotNet\obj\Debug\Interop.Scripting.dll
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\ScoresDotNet\obj\Debug\ScoresDotNet.vbproj.ResolveComReference.cache
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\ScoresDotNet\obj\Debug\ScoresDotNet.exe
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\ScoresDotNet\obj\Debug\ScoresDotNet.xml
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\ScoresDotNet\obj\Debug\ScoresDotNet.pdb
