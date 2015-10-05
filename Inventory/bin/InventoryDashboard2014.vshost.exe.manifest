@@ -4,7 +4,7 @@
   <description asmv2:iconFile="inventory_maintenance.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="InventoryDashboard2014" version="1.0.5756.30730" publicKeyToken="ED9CCAE38A4FB2BB" language="neutral" processorArchitecture="x86" />
+    <assemblyIdentity name="InventoryDashboard2014" version="1.0.5756.31914" publicKeyToken="ED9CCAE38A4FB2BB" language="neutral" processorArchitecture="x86" />
     <commandLine file="InventoryDashboard2014.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -218,19 +218,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>0X7Hjfpddn+P7rjuR9ttitHMqjs=</dsig:DigestValue>
+        <dsig:DigestValue>uxi/6xcskb2lkS36CIb4wXaGqnQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="InventoryDashboard2014.exe" size="1175552">
-      <assemblyIdentity name="InventoryDashboard2014" version="1.0.5756.30730" publicKeyToken="ED9CCAE38A4FB2BB" language="neutral" processorArchitecture="x86" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="InventoryDashboard2014.exe" size="1176576">
+      <assemblyIdentity name="InventoryDashboard2014" version="1.0.5756.31914" publicKeyToken="ED9CCAE38A4FB2BB" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>2pqHA14rnwIX7FlellkVUwIvYrU=</dsig:DigestValue>
+        <dsig:DigestValue>/IRSljIv6MBDF4YobzDqKDJ1ZXM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

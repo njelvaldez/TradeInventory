@@ -71,7 +71,8 @@ Public Class frmItem
     Private Function AllValidFields() As Boolean
         Dim retval As Boolean = False
         If txtItemCode.Text.ToString <> "" And txtItemDesc.Text.ToString <> "" And _
-           txtLeadtime.Text.ToString <> "" And txtSaflvl.Text.ToString <> "" Then
+           txtMOQ.Text.ToString <> "" And txtShelflife.Text.ToString <> "" And _
+           txtLeadtime.Text.ToString <> "" And TxtSafLvl.Text.ToString <> "" Then
             retval = True
         End If
         Return retval
