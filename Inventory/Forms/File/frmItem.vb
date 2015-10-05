@@ -5,7 +5,7 @@ Public Class frmItem
     Private EditMode As Boolean = False
     Private ModuleName As String = "USER MASTER FILE"
     Private Sub cmdAdd_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmdAdd.Click
-        If UserCanAdd(gUserID, ModuleName) Then
+        If UserCanAdd(gItemCode, ModuleName) Then
             modControlBehavior.EnableControlsGroup(Me, True)
             ControlMaintenance.ClearInputControlsGroup(Me)
             EditMode = False
@@ -16,7 +16,7 @@ Public Class frmItem
         End If
     End Sub
     Private Sub cmdEdit_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmdEdit.Click
-        If UserCanEdit(gUserID, ModuleName) Then
+        If UserCanEdit(gItemCode, ModuleName) Then
             modControlBehavior.EnableControlsGroup(Me, True)
             If txtItemCode.Text = "" And txtItemDesc.Text = "" Then
                 MessageBox.Show("Please select a record to modify!", "Record Selection", MessageBoxButtons.OK, _
@@ -81,11 +81,13 @@ Public Class frmItem
         Try
             Dim BusinessObject As New BusinessLayer.clsFileMaintenance
             Dim Params(4) As SqlParameter
-            Dim USERID As New SqlParameter("@USERID", SqlDbType.VarChar, 10) : USERID.Direction = ParameterDirection.Input : USERID.Value = txtItemCode.Text : Params(0) = USERID
-            Dim USERNAME As New SqlParameter("@USERNAME", SqlDbType.VarChar, 50) : USERNAME.Direction = ParameterDirection.Input : USERNAME.Value = txtItemDesc.Text : Params(1) = USERNAME
-            Dim PASSWORD As New SqlParameter("@PASSWORD", SqlDbType.VarChar, 15) : PASSWORD.Direction = ParameterDirection.Input : PASSWORD.Value = txtMDICode.Text : Params(2) = PASSWORD
-            Dim IROLEID As New SqlParameter("@IROLEID", SqlDbType.Int, 10) : IROLEID.Direction = ParameterDirection.Input : IROLEID.Value = Convert.ToInt16(txtSaflvl.Text) : Params(3) = IROLEID
-            Dim ENCODER As New SqlParameter("@ENCODER", SqlDbType.VarChar, 25) : ENCODER.Direction = ParameterDirection.Input : ENCODER.Value = gUserID : Params(4) = ENCODER
+            Dim ItemCode As New SqlParameter("@ItemCode", SqlDbType.VarChar, 10) : ItemCode.Direction = ParameterDirection.Input : ItemCode.Value = txtItemCode.Text : Params(0) = ItemCode
+            Dim ItemDesc As New SqlParameter("@ItemDesc", SqlDbType.VarChar, 50) : ItemDesc.Direction = ParameterDirection.Input : ItemDesc.Value = txtItemDesc.Text : Params(1) = ItemDesc
+            Dim MdiCode As New SqlParameter("@MdiCode", SqlDbType.VarChar, 15) : MdiCode.Direction = ParameterDirection.Input : MdiCode.Value = txtMDICode.Text : Params(2) = MdiCode
+            Dim Leadtime As New SqlParameter("@Leadtime", SqlDbType.Int, 10) : Leadtime.Direction = ParameterDirection.Input : Leadtime.Value = Convert.ToInt16(txtSaflvl.Text) : Params(3) = Leadtime
+            Dim Saflvl As New SqlParameter("@Saflvl", SqlDbType.VarChar, 25) : Saflvl.Direction = ParameterDirection.Input : Saflvl.Value = gItemCode : Params(4) = Saflvl
+            Dim MOQ As New SqlParameter("@MOQ", SqlDbType.VarChar, 25) : MOQ.Direction = ParameterDirection.Input : MOQ.Value = gItemCode : Params(4) = MOQ
+            Dim Shelflife As New SqlParameter("@Shelflife", SqlDbType.VarChar, 25) : Shelflife.Direction = ParameterDirection.Input : Shelflife.Value = gItemCode : Params(4) = Shelflife
             If ItemExists() Then
                 MsgBox("User Id : " & txtItemCode.Text & ", User Name : " & txtItemDesc.Text & " already exists!")
             Else
@@ -102,11 +104,11 @@ Public Class frmItem
         Try
             Dim BusinessObject As New BusinessLayer.clsFileMaintenance
             Dim Params(5) As SqlParameter
-            Dim USERID As New SqlParameter("@USERID", SqlDbType.VarChar, 10) : USERID.Direction = ParameterDirection.Input : USERID.Value = txtItemCode.Text : Params(0) = USERID
-            Dim USERNAME As New SqlParameter("@USERNAME", SqlDbType.VarChar, 50) : USERNAME.Direction = ParameterDirection.Input : USERNAME.Value = txtItemDesc.Text : Params(1) = USERNAME
-            Dim PASSWORD As New SqlParameter("@PASSWORD", SqlDbType.VarChar, 15) : PASSWORD.Direction = ParameterDirection.Input : PASSWORD.Value = txtMDICode.Text : Params(2) = PASSWORD
-            Dim IROLEID As New SqlParameter("@IROLEID", SqlDbType.Int, 10) : IROLEID.Direction = ParameterDirection.Input : IROLEID.Value = Convert.ToInt16(txtSaflvl.Text) : Params(3) = IROLEID
-            Dim ENCODER As New SqlParameter("@ENCODER", SqlDbType.VarChar, 25) : ENCODER.Direction = ParameterDirection.Input : ENCODER.Value = gUserID : Params(4) = ENCODER
+            Dim ItemCode As New SqlParameter("@ItemCode", SqlDbType.VarChar, 10) : ItemCode.Direction = ParameterDirection.Input : ItemCode.Value = txtItemCode.Text : Params(0) = ItemCode
+            Dim ItemDesc As New SqlParameter("@ItemDesc", SqlDbType.VarChar, 50) : ItemDesc.Direction = ParameterDirection.Input : ItemDesc.Value = txtItemDesc.Text : Params(1) = ItemDesc
+            Dim MdiCode As New SqlParameter("@MdiCode", SqlDbType.VarChar, 15) : MdiCode.Direction = ParameterDirection.Input : MdiCode.Value = txtMDICode.Text : Params(2) = MdiCode
+            Dim Leadtime As New SqlParameter("@Leadtime", SqlDbType.Int, 10) : Leadtime.Direction = ParameterDirection.Input : Leadtime.Value = Convert.ToInt16(txtSaflvl.Text) : Params(3) = Leadtime
+            Dim Saflvl As New SqlParameter("@Saflvl", SqlDbType.VarChar, 25) : Saflvl.Direction = ParameterDirection.Input : Saflvl.Value = gItemCode : Params(4) = Saflvl
             Dim ROWID As New SqlParameter("@ROWID", SqlDbType.Int, 10) : ROWID.Direction = ParameterDirection.Input : ROWID.Value = Convert.ToInt16(txtRowid.Text) : Params(5) = ROWID
             BusinessObject.Sub_Insert(ServerPath2, "UserTab_Update", CommandType.StoredProcedure, Params)
             LogHelper.InsertLog("UserTab_Update")
@@ -124,10 +126,10 @@ Public Class frmItem
                 BusinessObject.Sub_Show(ServerPath2, "UserTab_Show", CommandType.StoredProcedure, RemoteDataSet, "ProductFormCT_Show")
             Else
                 Dim Params(0) As SqlParameter
-                Dim USERNAME As New SqlParameter("@USERNAME ", SqlDbType.VarChar, 50)
-                USERNAME.Direction = ParameterDirection.Input
-                USERNAME.Value = txtSearch.Text.ToString.Trim
-                Params(0) = USERNAME
+                Dim ItemDesc As New SqlParameter("@ItemDesc ", SqlDbType.VarChar, 50)
+                ItemDesc.Direction = ParameterDirection.Input
+                ItemDesc.Value = txtSearch.Text.ToString.Trim
+                Params(0) = ItemDesc
                 BusinessObject.Sub_Show(ServerPath2, "UserTab_Search_Show", CommandType.StoredProcedure, RemoteDataSet, "ProductFormCT_Show", Params)
             End If
             DataGrid1.DataSource = RemoteDataSet.Tables("ProductFormCT_Show")
@@ -261,7 +263,7 @@ Public Class frmItem
         RemoteDataSet.Tables.Add("ProductFormCT_Show")
     End Sub
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        If UserCanReport(gUserID, ModuleName) Then
+        If UserCanReport(gItemCode, ModuleName) Then
             Dim myLoadedForm As New frmReportViewer
             myLoadedForm.Report = "User Master List Report"
             myLoadedForm.Status = "ALL"
