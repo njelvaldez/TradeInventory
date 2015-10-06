@@ -8,35 +8,35 @@ Public Class frmItem
 <<<<<<< HEAD
         If UserCanAdd(gUserID, ModuleName) Then
 =======
-        If UserCanAdd(gItemCode, ModuleName) Then
+            If UserCanAdd(gItemCode, ModuleName) Then
 >>>>>>> a4a91f5c92190b9ae32d24a9c8e0b187ede31f12
-            modControlBehavior.EnableControlsGroup(Me, True)
-            ControlMaintenance.ClearInputControlsGroup(Me)
-            EditMode = False
-            EnableCodeAndDesc(False)
-            txtItemCode.Enabled = True
-            modControlBehavior.SetBackgroundControlsGroup(Me)
-            txtItemCode.Focus()
-        End If
+                modControlBehavior.EnableControlsGroup(Me, True)
+                ControlMaintenance.ClearInputControlsGroup(Me)
+                EditMode = False
+                EnableCodeAndDesc(False)
+                txtItemCode.Enabled = True
+                modControlBehavior.SetBackgroundControlsGroup(Me)
+                txtItemCode.Focus()
+            End If
     End Sub
     Private Sub cmdEdit_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmdEdit.Click
 <<<<<<< HEAD
         If UserCanEdit(gUserID, ModuleName) Then
 =======
-        If UserCanEdit(gItemCode, ModuleName) Then
+            If UserCanEdit(gItemCode, ModuleName) Then
 >>>>>>> a4a91f5c92190b9ae32d24a9c8e0b187ede31f12
-            modControlBehavior.EnableControlsGroup(Me, True)
-            If txtItemCode.Text = "" And txtItemDesc.Text = "" Then
-                MessageBox.Show("Please select a record to modify!", "Record Selection", MessageBoxButtons.OK, _
-                MessageBoxIcon.Information, MessageBoxDefaultButton.Button1)
-            Else
                 modControlBehavior.EnableControlsGroup(Me, True)
-                EditMode = True
-                EnableCodeAndDesc(False)
-                SetBackgroundControlsGroup(Me)
-                txtItemCode.Focus()
+                If txtItemCode.Text = "" And txtItemDesc.Text = "" Then
+                    MessageBox.Show("Please select a record to modify!", "Record Selection", MessageBoxButtons.OK, _
+                    MessageBoxIcon.Information, MessageBoxDefaultButton.Button1)
+                Else
+                    modControlBehavior.EnableControlsGroup(Me, True)
+                    EditMode = True
+                    EnableCodeAndDesc(False)
+                    SetBackgroundControlsGroup(Me)
+                    txtItemCode.Focus()
+                End If
             End If
-        End If
     End Sub
     Private Sub cmdDelete_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmdDelete.Click
         'If txtRowid.Text > "" Then
@@ -293,15 +293,13 @@ Public Class frmItem
         RemoteDataSet.Tables.Add("ProductFormCT_Show")
     End Sub
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-<<<<<<< HEAD
         If UserCanReport(gUserID, ModuleName) Then
-=======
-        If UserCanReport(gItemCode, ModuleName) Then
->>>>>>> a4a91f5c92190b9ae32d24a9c8e0b187ede31f12
-            Dim myLoadedForm As New frmReportViewer
-            myLoadedForm.Report = "User Master List Report"
-            myLoadedForm.Status = "ALL"
-            myLoadedForm.ShowDialog()
+            If UserCanReport(gItemCode, ModuleName) Then
+                Dim myLoadedForm As New frmReportViewer
+                myLoadedForm.Report = "User Master List Report"
+                myLoadedForm.Status = "ALL"
+                myLoadedForm.ShowDialog()
+            End If
         End If
     End Sub
 
@@ -309,5 +307,5 @@ Public Class frmItem
 
     End Sub
 
-  
+
 End Class
