@@ -5,7 +5,7 @@ Public Class frmItem
     Private EditMode As Boolean = False
     Private ModuleName As String = "USER MASTER FILE"
     Private Sub cmdAdd_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmdAdd.Click
-        If UserCanAdd(gItemCode, ModuleName) Then
+        If UserCanAdd(gUserID, ModuleName) Then
             modControlBehavior.EnableControlsGroup(Me, True)
             ControlMaintenance.ClearInputControlsGroup(Me)
             EditMode = False
@@ -16,7 +16,7 @@ Public Class frmItem
         End If
     End Sub
     Private Sub cmdEdit_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmdEdit.Click
-        If UserCanEdit(gItemCode, ModuleName) Then
+        If UserCanEdit(gUserID, ModuleName) Then
             modControlBehavior.EnableControlsGroup(Me, True)
             If txtItemCode.Text = "" And txtItemDesc.Text = "" Then
                 MessageBox.Show("Please select a record to modify!", "Record Selection", MessageBoxButtons.OK, _
@@ -80,14 +80,14 @@ Public Class frmItem
     Private Sub Sub_Insert()
         Try
             Dim BusinessObject As New BusinessLayer.clsFileMaintenance
-            Dim Params(4) As SqlParameter
+            Dim Params(6) As SqlParameter
             Dim ItemCode As New SqlParameter("@ItemCode", SqlDbType.VarChar, 10) : ItemCode.Direction = ParameterDirection.Input : ItemCode.Value = txtItemCode.Text : Params(0) = ItemCode
             Dim ItemDesc As New SqlParameter("@ItemDesc", SqlDbType.VarChar, 50) : ItemDesc.Direction = ParameterDirection.Input : ItemDesc.Value = txtItemDesc.Text : Params(1) = ItemDesc
             Dim MdiCode As New SqlParameter("@MdiCode", SqlDbType.VarChar, 15) : MdiCode.Direction = ParameterDirection.Input : MdiCode.Value = txtMDICode.Text : Params(2) = MdiCode
             Dim Leadtime As New SqlParameter("@Leadtime", SqlDbType.Int, 10) : Leadtime.Direction = ParameterDirection.Input : Leadtime.Value = Convert.ToInt16(txtSaflvl.Text) : Params(3) = Leadtime
-            Dim Saflvl As New SqlParameter("@Saflvl", SqlDbType.VarChar, 25) : Saflvl.Direction = ParameterDirection.Input : Saflvl.Value = gItemCode : Params(4) = Saflvl
-            Dim MOQ As New SqlParameter("@MOQ", SqlDbType.VarChar, 25) : MOQ.Direction = ParameterDirection.Input : MOQ.Value = gItemCode : Params(4) = MOQ
-            Dim Shelflife As New SqlParameter("@Shelflife", SqlDbType.VarChar, 25) : Shelflife.Direction = ParameterDirection.Input : Shelflife.Value = gItemCode : Params(4) = Shelflife
+            Dim Saflvl As New SqlParameter("@Saflvl", SqlDbType.VarChar, 25) : Saflvl.Direction = ParameterDirection.Input : Saflvl.Value = TxtSafLvl.Text : Params(4) = Saflvl
+            Dim MOQ As New SqlParameter("@MOQ", SqlDbType.VarChar, 25) : MOQ.Direction = ParameterDirection.Input : MOQ.Value = txtMOQ.Text : Params(5) = MOQ
+            Dim Shelflife As New SqlParameter("@Shelflife", SqlDbType.VarChar, 25) : Shelflife.Direction = ParameterDirection.Input : Shelflife.Value = txtShelflife.Text : Params(6) = Shelflife
             If ItemExists() Then
                 MsgBox("User Id : " & txtItemCode.Text & ", User Name : " & txtItemDesc.Text & " already exists!")
             Else
@@ -103,13 +103,15 @@ Public Class frmItem
     Private Sub Sub_Update()
         Try
             Dim BusinessObject As New BusinessLayer.clsFileMaintenance
-            Dim Params(5) As SqlParameter
+            Dim Params(7) As SqlParameter
             Dim ItemCode As New SqlParameter("@ItemCode", SqlDbType.VarChar, 10) : ItemCode.Direction = ParameterDirection.Input : ItemCode.Value = txtItemCode.Text : Params(0) = ItemCode
             Dim ItemDesc As New SqlParameter("@ItemDesc", SqlDbType.VarChar, 50) : ItemDesc.Direction = ParameterDirection.Input : ItemDesc.Value = txtItemDesc.Text : Params(1) = ItemDesc
             Dim MdiCode As New SqlParameter("@MdiCode", SqlDbType.VarChar, 15) : MdiCode.Direction = ParameterDirection.Input : MdiCode.Value = txtMDICode.Text : Params(2) = MdiCode
-            Dim Leadtime As New SqlParameter("@Leadtime", SqlDbType.Int, 10) : Leadtime.Direction = ParameterDirection.Input : Leadtime.Value = Convert.ToInt16(txtSaflvl.Text) : Params(3) = Leadtime
-            Dim Saflvl As New SqlParameter("@Saflvl", SqlDbType.VarChar, 25) : Saflvl.Direction = ParameterDirection.Input : Saflvl.Value = gItemCode : Params(4) = Saflvl
-            Dim ROWID As New SqlParameter("@ROWID", SqlDbType.Int, 10) : ROWID.Direction = ParameterDirection.Input : ROWID.Value = Convert.ToInt16(txtRowid.Text) : Params(5) = ROWID
+            Dim Leadtime As New SqlParameter("@Leadtime", SqlDbType.Int, 10) : Leadtime.Direction = ParameterDirection.Input : Leadtime.Value = Convert.ToInt16(TxtSafLvl.Text) : Params(3) = Leadtime
+            Dim Saflvl As New SqlParameter("@Saflvl", SqlDbType.VarChar, 25) : Saflvl.Direction = ParameterDirection.Input : Saflvl.Value = TxtSafLvl.Text : Params(4) = Saflvl
+            Dim MOQ As New SqlParameter("@MOQ", SqlDbType.VarChar, 25) : MOQ.Direction = ParameterDirection.Input : MOQ.Value = txtMOQ.Text : Params(5) = MOQ
+            Dim Shelflife As New SqlParameter("@Shelflife", SqlDbType.VarChar, 25) : Shelflife.Direction = ParameterDirection.Input : Shelflife.Value = txtShelflife.Text : Params(6) = Shelflife
+            Dim ROWID As New SqlParameter("@ROWID", SqlDbType.Int, 10) : ROWID.Direction = ParameterDirection.Input : ROWID.Value = Convert.ToInt16(txtRowid.Text) : Params(7) = ROWID
             BusinessObject.Sub_Insert(ServerPath2, "UserTab_Update", CommandType.StoredProcedure, Params)
             LogHelper.InsertLog("UserTab_Update")
         Catch ex As Exception
@@ -263,7 +265,7 @@ Public Class frmItem
         RemoteDataSet.Tables.Add("ProductFormCT_Show")
     End Sub
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        If UserCanReport(gItemCode, ModuleName) Then
+        If UserCanReport(gUserID, ModuleName) Then
             Dim myLoadedForm As New frmReportViewer
             myLoadedForm.Report = "User Master List Report"
             myLoadedForm.Status = "ALL"

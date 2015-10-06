@@ -41,7 +41,6 @@ C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\bin\CrystalDecisions
 C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\bin\CrystalDecisions.ReportSource.dll
 C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\bin\CrystalDecisions.Shared.dll
 C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\bin\CrystalDecisions.Web.dll
-C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\obj\Debug\TradeInventory.vbprojResolveAssemblyReference.cache
 C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\obj\Debug\Interop.Scripting.dll
 C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\obj\Debug\TradeInventory.vbproj.ResolveComReference.cache
 C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.frmLookUp.resources
