@@ -1,0 +1,103 @@
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\ScoresDotNet\bin\ScoresDotNet.exe.config
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\ScoresDotNet\bin\ScoresDotNet.exe
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\ScoresDotNet\bin\ScoresDotNet.pdb
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\ScoresDotNet\bin\ScoresDotNet.xml
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\ScoresDotNet\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\ScoresDotNet\bin\CrystalDecisions.ReportSource.dll
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\ScoresDotNet\bin\CrystalDecisions.Shared.dll
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\ScoresDotNet\bin\CrystalDecisions.Web.dll
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\ScoresDotNet\obj\Debug\Interop.Scripting.dll
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\ScoresDotNet\obj\Debug\Inventory2014.vbproj.ResolveComReference.cache
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\ScoresDotNet\obj\Debug\ScoresDotNet.DateRangeBox.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\ScoresDotNet\obj\Debug\ScoresDotNet.frmDialogBox.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\ScoresDotNet\obj\Debug\ScoresDotNet.loginform.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\ScoresDotNet\obj\Debug\ScoresDotNet.Main.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\ScoresDotNet\obj\Debug\ScoresDotNet.Resources.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\ScoresDotNet\obj\Debug\Inventory2014.vbproj.GenerateResource.Cache
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\ScoresDotNet\obj\Debug\ScoresDotNet.exe
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\ScoresDotNet\obj\Debug\ScoresDotNet.xml
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\ScoresDotNet\obj\Debug\ScoresDotNet.pdb
+C:\Installer\Inventory2014\Inventory\bin\InventoryDashboard2014.exe.config
+C:\Installer\Inventory2014\Inventory\bin\InventoryDashboard2014.exe
+C:\Installer\Inventory2014\Inventory\bin\InventoryDashboard2014.pdb
+C:\Installer\Inventory2014\Inventory\bin\InventoryDashboard2014.xml
+C:\Installer\Inventory2014\Inventory\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Installer\Inventory2014\Inventory\bin\CrystalDecisions.ReportSource.dll
+C:\Installer\Inventory2014\Inventory\bin\CrystalDecisions.Shared.dll
+C:\Installer\Inventory2014\Inventory\bin\CrystalDecisions.Web.dll
+C:\Installer\Inventory2014\Inventory\obj\Debug\Interop.Scripting.dll
+C:\Installer\Inventory2014\Inventory\obj\Debug\Inventory2014.vbproj.ResolveComReference.cache
+C:\Installer\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.frmLookUp.resources
+C:\Installer\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.frmSpecialist.resources
+C:\Installer\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.frmReportViewer.resources
+C:\Installer\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.frmApplyTemplateToSPs.resources
+C:\Installer\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.frmISSPM.resources
+C:\Installer\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.frmISSPMTemplate.resources
+C:\Installer\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.frmPromatsAllocations.resources
+C:\Installer\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.frmSamplesAllocations.resources
+C:\Installer\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.DateRangeBox.resources
+C:\Installer\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.frmDialogBox.resources
+C:\Installer\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.loginform.resources
+C:\Installer\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.Main.resources
+C:\Installer\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.frmProMats.resources
+C:\Installer\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.frmSamples.resources
+C:\Installer\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.frmInventoryDashboard.resources
+C:\Installer\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.frmSamplesPromats.resources
+C:\Installer\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.frmSamplesPromatsSplash.resources
+C:\Installer\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.Resources.resources
+C:\Installer\Inventory2014\Inventory\obj\Debug\Inventory2014.vbproj.GenerateResource.Cache
+C:\Installer\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.exe
+C:\Installer\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.xml
+C:\Installer\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.pdb
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\bin\InventoryDashboard2014.exe.config
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\bin\InventoryDashboard2014.exe.manifest
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\bin\InventoryDashboard2014.application
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\bin\InventoryDashboard2014.exe
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\bin\InventoryDashboard2014.pdb
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\bin\InventoryDashboard2014.xml
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\bin\CrystalDecisions.ReportSource.dll
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\bin\CrystalDecisions.Shared.dll
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\bin\CrystalDecisions.Web.dll
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\obj\Debug\Interop.Scripting.dll
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\obj\Debug\Inventory2014.vbproj.ResolveComReference.cache
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.frmLookUp.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.frmChangePassword.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.frmISupplier.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.frmRoleModules.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.frmSpecialist.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.frmUsers.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.frmDispatchReport.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.frmReportViewer.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.frmApplyTemplateToSPs.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.frmISSPM.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.frmISSPMTemplate.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.frmPODetail.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.frmPOHeader.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.frmPromatsAllocations.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.frmSamplesAllocations.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.frmUploadPromatsInventory.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.frmUploadSamplesInventory.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.DateRangeBox.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.frmDialogBox.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.loginform.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.Main.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.frmProMats.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.frmSamples.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.frmInventoryDashboard.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.frmSamplesPromats.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.frmSamplesPromatsSplash.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.Resources.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\obj\Debug\Inventory2014.vbproj.GenerateResource.Cache
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.TrustInfo.xml
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.exe.manifest
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.application
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.exe
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.xml
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\Inventory2014\Inventory\obj\Debug\InventoryDashboard2014.pdb
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\bin\InventoryDashboard2014.exe.config
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\obj\Debug\Interop.Scripting.dll
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\obj\Debug\Inventory2014.vbproj.ResolveComReference.cache
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.exe
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.xml
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.pdb

@@ -1,0 +1,67 @@
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\obj\Debug\Interop.Scripting.dll
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\obj\Debug\TradeInventory.vbproj.ResolveComReference.cache
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.frmLookUp.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.frmChangePassword.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.frmISupplier.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.frmItem.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.frmRoleModules.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.frmUsers.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.frmReportViewer.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.frmPODetail.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.frmPOHeader.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.DateRangeBox.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.frmDialogBox.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.loginform.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.Main.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.Resources.resources
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\obj\Debug\TradeInventory.vbproj.GenerateResource.Cache
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\bin\InventoryDashboard2014.exe.config
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\bin\InventoryDashboard2014.exe.manifest
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\bin\InventoryDashboard2014.application
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\bin\InventoryDashboard2014.exe
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\bin\InventoryDashboard2014.pdb
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\bin\InventoryDashboard2014.xml
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\bin\CrystalDecisions.ReportSource.dll
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\bin\CrystalDecisions.Shared.dll
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\bin\CrystalDecisions.Web.dll
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.TrustInfo.xml
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.exe.manifest
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.application
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.exe
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.xml
+C:\Users\arvaldez\Documents\Visual Studio 2013\Projects\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.pdb
+C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\bin\InventoryDashboard2014.exe.config
+C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\bin\InventoryDashboard2014.exe.manifest
+C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\bin\InventoryDashboard2014.application
+C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\bin\InventoryDashboard2014.exe
+C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\bin\InventoryDashboard2014.pdb
+C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\bin\InventoryDashboard2014.xml
+C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\bin\CrystalDecisions.ReportSource.dll
+C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\bin\CrystalDecisions.Shared.dll
+C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\bin\CrystalDecisions.Web.dll
+C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\obj\Debug\TradeInventory.vbprojResolveAssemblyReference.cache
+C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\obj\Debug\Interop.Scripting.dll
+C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\obj\Debug\TradeInventory.vbproj.ResolveComReference.cache
+C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.frmLookUp.resources
+C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.frmChangePassword.resources
+C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.frmISupplier.resources
+C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.frmItem.resources
+C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.frmRoleModules.resources
+C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.frmUsers.resources
+C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.frmReportViewer.resources
+C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.frmPODetail.resources
+C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.frmPOHeader.resources
+C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.DateRangeBox.resources
+C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.frmDialogBox.resources
+C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.loginform.resources
+C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.Main.resources
+C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.Resources.resources
+C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\obj\Debug\TradeInventory.vbproj.GenerateResource.Cache
+C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.TrustInfo.xml
+C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.exe.manifest
+C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.application
+C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.exe
+C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.xml
+C:\Users\arvaldez\Documents\GitHub\TradeInventory\Inventory\obj\Debug\InventoryDashboard2014.pdb
